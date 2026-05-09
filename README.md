@@ -1,4 +1,4 @@
-# Aashu's Downloader
+# Aashutosh's Downloader
 
 A futuristic next-generation media downloading software designed with a premium 3D cyberpunk-inspired UI/UX. The application allows users to paste a YouTube video link and instantly download:
 
