@@ -1,6 +1,9 @@
-# Gemini 3D YouTube Downloader
+# Aashu's Downloader
 
-A simple Electron desktop app with a 3D-style UI that downloads YouTube video as MP4 or audio as WAV.
+A futuristic next-generation media downloading software designed with a premium 3D cyberpunk-inspired UI/UX. The application allows users to paste a YouTube video link and instantly download:
+
+- High-quality audio in .WAV format
+- Full HD video in .MP4 format
 
 ## Setup
 
